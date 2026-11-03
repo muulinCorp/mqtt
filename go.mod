@@ -1,4 +1,4 @@
-module github.com/94peter/mqtt
+module github.com/muulinCorp/mqtt
 
 go 1.21
 

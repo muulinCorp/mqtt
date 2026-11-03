@@ -11,8 +11,8 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/94peter/mqtt/config"
-	"github.com/94peter/mqtt/trans"
+	"github.com/muulinCorp/mqtt/config"
+	"github.com/muulinCorp/mqtt/trans"
 
 	"github.com/eclipse/paho.golang/autopaho"
 	"github.com/eclipse/paho.golang/autopaho/queue"
